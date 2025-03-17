@@ -15,5 +15,5 @@ This is a simple Amazon Clone built using HTML & CSS. The project replicates the
   <li>CSS3 for styling and layout.</li>
   <li>FontAwesome for icons.</li>
 </ul>
-
+<h3>Author - MD. TAMIM IQBAL</h3>
 
